@@ -12,9 +12,9 @@ What's different:
 
 == INSTALLATION
 
-Add the gem to your Gemfile
+Add this forked gem to your Gemfile
 
-  gem 'slug'
+  gem 'slug', git: 'https://github.com/openupresources/slug'
 
 of your rails project.
 
